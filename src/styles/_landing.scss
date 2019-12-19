@@ -1,5 +1,5 @@
 .drDUkw .top-header {
-    background-color: #2a2f5e;
+    background-color: #007b3c;
     &:after {
         background: #fff;
         display: none;
@@ -21,22 +21,30 @@
     }
 }
 .kTrfkB {
-    background: #a11510;
+    background: #edaa40;
 }
 .czIBPk {
     background-image: none;
-    background-color: #2a2f5e;
+    background-color: #007b3c;
 }
 .UPQzX {
     display: none;
 }
 .dFFgOb #nav-search-btn:hover {
-    background-color: #2a2f5e
+    background-color: #007b3c
+}
+.social {
+    .instagramLink {
+        display: none;
+    }
+}
+.eTDvSM .where-to-buy-link, .eTDvSM .LocationIcon {
+    color: #f2af0c;
 }
 section.landing-body {
     font-family: 'Bitter', serif;
     padding-top: 15px;
-    background: #a11510;
+    background: #edaa40;
     
     .hero {
         padding: 10px;
