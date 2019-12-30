@@ -6,8 +6,10 @@ import cta1Image from './images/cta-texture.png'
 import recipe1Image from './images/recipe-1.png'
 import recipe2Image from './images/recipe-2.png'
 import recipe3Image from './images/recipe-3.png'
+import recipe4Image from './images/recipe-4.png'
 import getRecipeBtn from './images/btn-get-recipe.png'
 import submitRecipe from './images/btn-submit-recipe.png'
+import heroImage3 from './images/RIV_2650048_Noodles_Creamette_1150x504.jpg'
 import './styles/index.scss'
 
 // Create SVG logo node
